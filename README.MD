@@ -1,4 +1,4 @@
-# ReactJS Redux BoilerPlate Code 
+# React Redux BoilerPlate Code 
 This repository accompanies my ReactJS / Redux .
 
 # Usage
